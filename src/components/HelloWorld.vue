@@ -46,6 +46,7 @@ export default {
   props: {
     msg: String
   }
+  //https://api.github.com/repos/Avinash1604/survey_shrike_web/contributors?anon=1
 }
 </script>
 
